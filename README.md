@@ -1,7 +1,7 @@
 Natron 
 ======
 
-[![GPL2 License](http://img.shields.io/:license-gpl2-blue.svg?style=flat-square)](https://github.com/NatronGitHub/Natron/blob/master/LICENSE) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v1.4%20adopted-ff69b4.svg)](code-of-conduct.md) [![Open Hub](https://www.openhub.net/p/Natron/widgets/project_thin_badge?format=gif&ref=Thin+badge)](https://www.openhub.net/p/Natron?ref=Thin+badge) [![Build Status](https://api.travis-ci.org/NatronGitHub/Natron.png?branch=master)](https://travis-ci.org/NatronGitHub/Natron) [![Coverage Status](https://coveralls.io/repos/NatronGitHub/Natron/badge.png?branch=master)](https://coveralls.io/r/NatronGitHub/Natron?branch=master) [![Coverity Scan Build Status](https://scan.coverity.com/projects/15152/badge.svg)](https://scan.coverity.com/projects/natrongithub-natron "Coverity Badge") [![Documentation Status](https://readthedocs.org/projects/natron/badge/?version=rb-2.3)](http://natron.readthedocs.io/en/rb-2.3/) [![Packaging status](https://repology.org/badge/tiny-repos/natron.svg)](https://repology.org/project/natron/badges) [![BountySource Status](https://api.bountysource.com/badge/team?team_id=271309)](https://www.bountysource.com/teams/natrongithub/issues?utm_source=Mozilla&utm_medium=shield&utm_campaign=bounties_received)
+[![GPL2 License](http://img.shields.io/:license-gpl2-blue.svg?style=flat-square)](https://github.com/NatronGitHub/Natron/blob/master/LICENSE) 
 
 
 Natron is a free open-source (GPLv2 license) video compositing
@@ -35,34 +35,13 @@ If you're a designer or Natron enthusiast, come aboard! Expertise in any of the 
 Installing
 ----------
 
-### Binary distribution ###
+To install these themes, following these simple steps:
 
-Standalone binary distributions of Natron are available for [GNU/Linux](https://sourceforge.net/projects/natron/files/Linux/),
-[Windows](https://sourceforge.net/projects/natron/files/Windows/) and [macOS](https://sourceforge.net/projects/natron/files/OSX/) from [SourceForge](https://sourceforge.net/projects/natron/files) (releases and examples only) or from [the Natron web site](https://natrongithub.github.io/#download). These distributions contain Natron and three basic sets of OpenFX plugins:
-* [openfx-io](https://github.com/NatronGitHub/openfx-io/),
-* [openfx-misc](https://github.com/NatronGitHub/openfx-misc),
-* [openfx-arena](https://github.com/NatronGitHub/openfx-arena).
-* [openfx-gmic](https://github.com/NatronGitHub/openfx-gmic).
+### Step 1
 
-For each architecture / operating system, you can either download a stable release, a release candidate (if available), or one of the latest snapshots. Note that snapshots contain the latest features and bug fixes, but may be unstable.
+### Step 2
 
-### Building and installing from source ###
-
-There are instructions for building Natron and the basic plugins from source is this directory on various architectures / operating systems:
-* [GNU/Linux](INSTALL_LINUX.md)
-* [OS X](INSTALL_OSX.md)
-* [FreeBSD](INSTALL_FREEBSD.md)
-* [Windows](INSTALL_WINDOWS.md)
-
-This documentation may be slightly outdated, so do not hesitate to submit updated build instructions, especially for the various GNU/Linux distributions.
-
-### Automatic build scripts ###
-
-There are automatic build scripts for [GNU/Linux](tools/linux), [OS X](tools/MacOSX), and [Windows](tools/Windows), which are used to build the binary distributions and the snapshots.
-
-These scripts are run on virtual machines running a specific version of each operating system, and setting these up is more complicated than for the basic builds described above.
-
-There is some documentation, which is probably outdated, for [GNU/Linux](tools/linux/README.md), [OS X](tools/MacOSX/README.md), and [Windows](tools/WindowsREADME.md).
+### Step 3
 
 
 Requirements
