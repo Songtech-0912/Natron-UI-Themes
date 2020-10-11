@@ -1,4 +1,4 @@
-Natron 
+Natron Themes Lab 
 ======
 
 [![GPL2 License](http://img.shields.io/:license-gpl2-blue.svg?style=flat-square)](https://github.com/NatronGitHub/Natron/blob/master/LICENSE) 
